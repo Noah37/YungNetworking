@@ -1,0 +1,16 @@
+PODS:
+  - YungNetworking (0.1.0)
+
+DEPENDENCIES:
+  - YungNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  YungNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YungNetworking: 9b550bc3754fe055a8e2ee45f860ead18a148487
+
+PODFILE CHECKSUM: 9d4332d55bdf5ae9e542b851bd0029bb161826ad
+
+COCOAPODS: 1.12.1

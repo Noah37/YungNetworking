@@ -1,0 +1,6 @@
+framework module YungNetworking {
+  umbrella header "YungNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}

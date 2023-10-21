@@ -1,0 +1,22 @@
+{
+  "name": "YungNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of YungNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/nongyun.cao/YungNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "nongyun.cao": "nongyun.cao@okg.com"
+  },
+  "source": {
+    "git": "https://github.com/nongyun.cao/YungNetworking.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "YungNetworking/Classes/**/*"
+}

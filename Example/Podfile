@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'YungNetworking_Example' do
+  pod 'YungNetworking', :path => '../'
+
+  target 'YungNetworking_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
